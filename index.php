@@ -10,7 +10,22 @@
         </div>
     </section>
     <section class="joinUs">
-
+        <div class="left sectionimage"></div>
+        <div class="right sectionText">
+            <h2 class="large-text">Priase your Kouhai today!</h2>
+                <p><span>Give appreciation to who has always been by your side,</span>
+                 she is always trying her best for you.</p>
+            <p class="small-text"> Even if you cant grail her to level 100</p>
+        </div>
+    </section>
+    <section class="sheIsGreat">
+        <div class="left sectionText">
+            <h2 class="large-text">Priase your Kouhai today!</h2>
+            <p><span>Give appreciation to who has always been by your side,</span>
+                 she is always trying her best for you.</p>
+            <p class="small-text"> Even if you cant grail her to level 100</p>
+        </div>
+        <div class="right sectionimage"></div>
     </section>
  
 </body>
