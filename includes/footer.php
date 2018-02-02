@@ -1,19 +1,21 @@
 <footer>
+    <div class="footer-top">
+        <div class="social-links">
+            <a href="https://twitter.com/" rel="noopener noreferrer" target="_blank">Twitter</a>
+            <a href="" rel="noopener noreferrer" target="_blank"><i class="mdi mdi-facebook-box"></i>Facebook</a>
+            <a href="" rel="noopener noreferrer" target="_blank">Youtube</a>
+        </div>
+        <div class="footer-scroll-to-top">
+            <span class="scroll-to-top small-text">
+           To top <i class="mdi mdi-chevron-up"></i>
+            </span>
+        </div>
+    </div>
     <div class="container">
         <div class="about" id="about">
             <h2>About</h2>
             <p>To be filled</p>
         </div>
-
-        <div class="social">
-            <p>Social</p>
-            <a href="https://twitter.com/" rel="noopener noreferrer" target="_blank">Twitter</a>
-            | <a href="" rel="noopener noreferrer" target="_blank">Blog</a>
-            | <a href="" rel="noopener noreferrer" target="_blank">Facebook</a>
-            <p>E-mail</p>
-            <a href="mailto:EmailGoesHere@gmail.com">EmailGoesHere@gmail.com</a>
-        </div>
-
     </div>
 </footer>
 

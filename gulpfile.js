@@ -2,6 +2,7 @@ require('es6-promise').polyfill();
 
 var gulp = require('gulp'),
     plumber = require('gulp-plumber'),
+    babel = require('gulp-babel'),
     notify = require('gulp-notify'),
     sass = require('gulp-sass'),
     cssnano = require('gulp-cssnano'),
@@ -31,6 +32,9 @@ gulp.task('sass', function() {
 
 gulp.task('scripts', function(){
     gulp.src('./assets/js/*.js')
+    .pipe(babel({
+        presets: ['env']
+    }))
       .pipe(uglify())
       .pipe(rename({
         extname: '.min.js'
