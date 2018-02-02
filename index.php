@@ -1,6 +1,6 @@
 <?php $pageType = "home"; ?>
 <?php require('includes/head.php'); ?>
-<body>
+<body id="top">
     <section class="heroBanner">
         <div class="heroText SourceSansPro">
                 <h1> Mashu Kyrielight</h1>

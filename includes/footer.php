@@ -6,9 +6,9 @@
             <a href="" rel="noopener noreferrer" target="_blank">Youtube</a>
         </div>
         <div class="footer-scroll-to-top">
-            <span class="scroll-to-top small-text">
+            <a href="#top">
            To top <i class="mdi mdi-chevron-up"></i>
-            </span>
+            </a>
         </div>
     </div>
     <div class="container">
