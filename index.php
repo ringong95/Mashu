@@ -27,6 +27,15 @@
         </div>
         <div class="right sectionimage"></div>
     </section>
+    <div>
+        <div class="carousel-title">
+        <h2 class="title"> Craft Essenceds Mashu has been involved in. </h2>
+        </div>
+        <div  class="carousel">
+        <?php require('includes/images.php'); ?>
+        </div>
+    </div>
+
  
 </body>
 

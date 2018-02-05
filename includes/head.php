@@ -6,4 +6,8 @@
 <link href="https://cdn.rawgit.com/noelboss/featherlight/1.7.1/release/featherlight.min.css" type="text/css" rel="stylesheet"/>
 <link rel="stylesheet" href="https://cdn.materialdesignicons.com/1.9.32/css/materialdesignicons.min.css">
 <link rel="stylesheet" href="build/css/style.min.css">
+<?php if ($pageType == "home"): ?>
+    <link rel="stylesheet" type="text/css" href="./vendor/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="./vendor/slick/slick-theme.css"/>  
+<?php endif ?>
 </head>
