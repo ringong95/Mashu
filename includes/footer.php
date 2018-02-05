@@ -1,9 +1,9 @@
 <footer>
     <div class="footer-top">
         <div class="social-links">
-            <a href="https://twitter.com/" rel="noopener noreferrer" target="_blank">Twitter</a>
+            <a href="" rel="noopener noreferrer" target="_blank"><i class="mdi mdi-twitter-box"></i>Twitter</a>
             <a href="" rel="noopener noreferrer" target="_blank"><i class="mdi mdi-facebook-box"></i>Facebook</a>
-            <a href="" rel="noopener noreferrer" target="_blank">Youtube</a>
+            <a href="" rel="noopener noreferrer" target="_blank"><i class="mdi mdi-youtube-play"></i>Youtube</a>
         </div>
         <div class="footer-scroll-to-top">
             <a class="scroll-to-top small-text" href="#top">

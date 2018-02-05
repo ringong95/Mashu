@@ -20,10 +20,9 @@
     </section>
     <section class="sheIsGreat">
         <div class="left sectionText">
-            <h2 class="large-text">Priase your Kouhai today!</h2>
-            <p><span>Give appreciation to who has always been by your side,</span>
-                 she is always trying her best for you.</p>
-            <p class="small-text"> Even if you cant grail her to level 100</p>
+            <h2 class="large-text">Join us!</h2>
+            <p><span>In the fight to grail Mashu.</span>
+                Give her the treatment she deserves.</p>
         </div>
         <div class="right sectionimage"></div>
     </section>
